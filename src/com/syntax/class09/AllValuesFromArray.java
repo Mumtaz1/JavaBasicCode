@@ -12,7 +12,7 @@ public class AllValuesFromArray {
 		 * System.out.println(grade[2]);
 		 */
 		for (int i = 0; i < grade.length; i++) {
-			System.out.println(grade[i] + " ");  // A B C D (one per line)
+			System.out.print(grade[i] + " ");  // A B C D (one per line)
 		}
 		System.out.println();
 		
